@@ -1,1 +1,1 @@
-# repo-remoto
+# repositorio-remoto
